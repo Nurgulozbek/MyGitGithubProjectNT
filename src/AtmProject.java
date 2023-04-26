@@ -10,6 +10,8 @@ public class AtmProject {
         //version4
         System.out.println("nurgul kodlarını yazdı");
         //version nrg1
+        System.out.println("yeni");
+        //nrg2
 
 
     }
