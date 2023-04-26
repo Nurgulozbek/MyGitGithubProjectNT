@@ -14,6 +14,8 @@ public class AtmProject {
         //nrg2
         System.out.println("bdnjfjgnjf");
         //nrg3
+        System.out.println("args = " + args);
+
 
     }
 
