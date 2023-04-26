@@ -12,7 +12,8 @@ public class AtmProject {
         //version nrg1
         System.out.println("yeni");
         //nrg2
-
+        System.out.println("bdnjfjgnjf");
+        //nrg3
 
     }
 
